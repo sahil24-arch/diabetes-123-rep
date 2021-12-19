@@ -1,0 +1,24 @@
+2021-12-15/12:05:52		Testing of Logistic Regression Model is done:: accuracy_score=0.6818181818181818   precision_score=0.6818181818181818   recall_score=1.0   auc-score=0.5
+2021-12-15/12:08:59		Testing of RandomForest Classifier Model is done::accuracy_score=0.7159090909090909   precision_score=0.7058823529411765   recall_score=1.0   auc-score=0.5535714285714286
+2021-12-15/12:12:11		Testing of XGBoost Classifier Model is done::accuracy_score=0.6704545454545454   precision_score=0.7066666666666667   recall_score=0.8833333333333333   auc-score=0.5488095238095239
+2021-12-15/12:12:11		Best model selected and returned::rf==0.5535714285714286
+2021-12-15/12:12:12		Testing of Logistic Regression Model is done:: accuracy_score=0.6424474187380497   precision_score=0.6473118279569893   recall_score=0.9290123456790124   auc-score=0.5524458713319684
+2021-12-15/12:15:59		Testing of RandomForest Classifier Model is done::accuracy_score=0.5984703632887189   precision_score=0.6748466257668712   recall_score=0.6790123456790124   auc-score=0.5731745145480489
+2021-12-15/12:19:46		Testing of XGBoost Classifier Model is done::accuracy_score=0.6347992351816444   precision_score=0.6852367688022284   recall_score=0.7592592592592593   auc-score=0.59571003163968
+2021-12-15/12:19:46		Best model selected and returned::xg==0.59571003163968
+2021-12-15/12:19:46		Testing of Logistic Regression Model is done:: accuracy_score=0.6825396825396826   precision_score=0.6046511627906976   recall_score=0.896551724137931   auc-score=0.6982758620689655
+2021-12-15/12:22:58		Testing of RandomForest Classifier Model is done::accuracy_score=0.7777777777777778   precision_score=0.7027027027027027   recall_score=0.896551724137931   auc-score=0.7865111561866127
+2021-12-15/12:26:09		Testing of XGBoost Classifier Model is done::accuracy_score=0.7301587301587301   precision_score=0.6578947368421053   recall_score=0.8620689655172413   auc-score=0.7398580121703854
+2021-12-15/12:26:09		Best model selected and returned::rf==0.7865111561866127
+2021-12-15/12:26:10		Testing of Logistic Regression Model is done:: accuracy_score=0.7092198581560284   precision_score=0.7341269841269841   recall_score=0.925   auc-score=0.5539634146341463
+2021-12-15/12:29:42		Testing of RandomForest Classifier Model is done::accuracy_score=0.6950354609929078   precision_score=0.7522123893805309   recall_score=0.85   auc-score=0.5835365853658536
+2021-12-15/12:33:12		Testing of XGBoost Classifier Model is done::accuracy_score=0.6843971631205674   precision_score=0.7341772151898734   recall_score=0.87   auc-score=0.5508536585365854
+2021-12-15/12:33:12		Best model selected and returned::rf==0.5835365853658536
+2021-12-15/12:33:13		Testing of Logistic Regression Model is done:: accuracy_score=0.9743589743589743   precision_score=1.0   recall_score=0.6666666666666666   auc-score=0.8333333333333333
+2021-12-15/12:36:20		Testing of RandomForest Classifier Model is done::accuracy_score=0.9230769230769231   precision_score=0.0   recall_score=0.0   auc-score=0.5
+2021-12-15/12:39:27		Testing of XGBoost Classifier Model is done::accuracy_score=1.0   precision_score=1.0   recall_score=1.0   auc-score=1.0
+2021-12-15/12:39:27		Best model selected and returned::xg==1.0
+2021-12-15/12:39:28		Testing of Logistic Regression Model is done:: accuracy_score=0.8205128205128205   precision_score=0.44   recall_score=0.125   auc-score=0.5457935560859187
+2021-12-15/12:43:11		Testing of RandomForest Classifier Model is done::accuracy_score=0.8165680473372781   precision_score=0.43243243243243246   recall_score=0.18181818181818182   auc-score=0.5658494250379692
+2021-12-15/12:46:55		Testing of XGBoost Classifier Model is done::accuracy_score=0.814595660749507   precision_score=0.4318181818181818   recall_score=0.2159090909090909   auc-score=0.5781216098936862
+2021-12-15/12:46:55		Best model selected and returned::xg==0.5781216098936862

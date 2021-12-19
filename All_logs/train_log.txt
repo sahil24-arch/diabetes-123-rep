@@ -1,0 +1,808 @@
+2021-12-15/11:59:29		Scaling dataset
+2021-12-15/12:01:29		Scaling dataset
+2021-12-15/12:05:14		Clustering has been initiated
+2021-12-15/12:05:16		We get number of clusters to be formed,6
+2021-12-15/12:05:14		Scaling dataset
+2021-12-15/12:05:14		Training is Initiated
+2021-12-15/12:05:49		Training Logistic Regression Model has begun
+2021-12-15/12:05:49		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-15/12:05:52		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-15/12:05:52		solver =newton-cg
+2021-12-15/12:05:52		penalty =l2
+2021-12-15/12:05:52		C =0.0001
+2021-12-15/12:05:52		Returning best Logistic Regressor along with tuned parameters
+2021-12-15/12:05:52		Training of best Logistic Regression Model is done 
+2021-12-15/12:05:52		Training RandomForest Classifier Model has begun
+2021-12-15/12:05:52		Hyper parameter tuning of RandomForest Begun..
+2021-12-15/12:08:59		Hyper parameter tuning of RandomForest Ended..
+2021-12-15/12:08:59		n_estimators =10
+2021-12-15/12:08:59		criterion =entropy
+2021-12-15/12:08:59		max_depth =5
+2021-12-15/12:08:59		max_features =log2
+2021-12-15/12:08:59		min_samples_split =0.015
+2021-12-15/12:08:59		min_samples_leaf =0.015
+2021-12-15/12:08:59		Returning best Random Forest Classifier along with tuned parameters
+2021-12-15/12:08:59		Training of best RandomForest Classifier Model is done 
+2021-12-15/12:08:59		Training of XGBoost Classifier Model has begun
+2021-12-15/12:08:59		Hyper parameter tuning of RandomForest Begun..
+2021-12-15/12:12:11		Hyper parameter tuning of RandomForest Ended..
+2021-12-15/12:12:11		n_estimators =10
+2021-12-15/12:12:11		criterion =gini
+2021-12-15/12:12:11		max_depth =25
+2021-12-15/12:12:11		max_features =auto
+2021-12-15/12:12:11		min_samples_split =0.025
+2021-12-15/12:12:11		min_samples_leaf =0.025
+2021-12-15/12:12:11		Returning best Random Forest Classifier along with tuned parameters
+2021-12-15/12:12:11		Training of best XGBoost Classifier Model is done 
+2021-12-15/12:12:11		Best model selected and returned::rf==0.5535714285714286
+2021-12-15/12:12:11		Training Logistic Regression Model has begun
+2021-12-15/12:12:11		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-15/12:12:12		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-15/12:12:12		solver =liblinear
+2021-12-15/12:12:12		penalty =l2
+2021-12-15/12:12:12		C =0.005994842503189409
+2021-12-15/12:12:12		Returning best Logistic Regressor along with tuned parameters
+2021-12-15/12:12:12		Training of best Logistic Regression Model is done 
+2021-12-15/12:12:12		Training RandomForest Classifier Model has begun
+2021-12-15/12:12:12		Hyper parameter tuning of RandomForest Begun..
+2021-12-15/12:15:59		Hyper parameter tuning of RandomForest Ended..
+2021-12-15/12:15:59		n_estimators =10
+2021-12-15/12:15:59		criterion =entropy
+2021-12-15/12:15:59		max_depth =35
+2021-12-15/12:15:59		max_features =auto
+2021-12-15/12:15:59		min_samples_split =0.015
+2021-12-15/12:15:59		min_samples_leaf =0.015
+2021-12-15/12:15:59		Returning best Random Forest Classifier along with tuned parameters
+2021-12-15/12:15:59		Training of best RandomForest Classifier Model is done 
+2021-12-15/12:15:59		Training of XGBoost Classifier Model has begun
+2021-12-15/12:15:59		Hyper parameter tuning of RandomForest Begun..
+2021-12-15/12:19:46		Hyper parameter tuning of RandomForest Ended..
+2021-12-15/12:19:46		n_estimators =10
+2021-12-15/12:19:46		criterion =entropy
+2021-12-15/12:19:46		max_depth =15
+2021-12-15/12:19:46		max_features =auto
+2021-12-15/12:19:46		min_samples_split =0.015
+2021-12-15/12:19:46		min_samples_leaf =0.015
+2021-12-15/12:19:46		Returning best Random Forest Classifier along with tuned parameters
+2021-12-15/12:19:46		Training of best XGBoost Classifier Model is done 
+2021-12-15/12:19:46		Best model selected and returned::xg==0.59571003163968
+2021-12-15/12:19:46		Training Logistic Regression Model has begun
+2021-12-15/12:19:46		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-15/12:19:46		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-15/12:19:46		solver =newton-cg
+2021-12-15/12:19:46		penalty =l2
+2021-12-15/12:19:46		C =0.005994842503189409
+2021-12-15/12:19:46		Returning best Logistic Regressor along with tuned parameters
+2021-12-15/12:19:46		Training of best Logistic Regression Model is done 
+2021-12-15/12:19:46		Training RandomForest Classifier Model has begun
+2021-12-15/12:19:46		Hyper parameter tuning of RandomForest Begun..
+2021-12-15/12:22:58		Hyper parameter tuning of RandomForest Ended..
+2021-12-15/12:22:58		n_estimators =50
+2021-12-15/12:22:58		criterion =entropy
+2021-12-15/12:22:58		max_depth =35
+2021-12-15/12:22:58		max_features =auto
+2021-12-15/12:22:58		min_samples_split =0.005
+2021-12-15/12:22:58		min_samples_leaf =0.015
+2021-12-15/12:22:58		Returning best Random Forest Classifier along with tuned parameters
+2021-12-15/12:22:58		Training of best RandomForest Classifier Model is done 
+2021-12-15/12:22:58		Training of XGBoost Classifier Model has begun
+2021-12-15/12:22:58		Hyper parameter tuning of RandomForest Begun..
+2021-12-15/12:26:09		Hyper parameter tuning of RandomForest Ended..
+2021-12-15/12:26:09		n_estimators =50
+2021-12-15/12:26:09		criterion =gini
+2021-12-15/12:26:09		max_depth =5
+2021-12-15/12:26:09		max_features =log2
+2021-12-15/12:26:09		min_samples_split =0.035
+2021-12-15/12:26:09		min_samples_leaf =0.015
+2021-12-15/12:26:09		Returning best Random Forest Classifier along with tuned parameters
+2021-12-15/12:26:09		Training of best XGBoost Classifier Model is done 
+2021-12-15/12:26:09		Best model selected and returned::rf==0.7865111561866127
+2021-12-15/12:26:09		Training Logistic Regression Model has begun
+2021-12-15/12:26:09		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-15/12:26:10		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-15/12:26:10		solver =liblinear
+2021-12-15/12:26:10		penalty =l2
+2021-12-15/12:26:10		C =0.046415888336127774
+2021-12-15/12:26:10		Returning best Logistic Regressor along with tuned parameters
+2021-12-15/12:26:10		Training of best Logistic Regression Model is done 
+2021-12-15/12:26:10		Training RandomForest Classifier Model has begun
+2021-12-15/12:26:10		Hyper parameter tuning of RandomForest Begun..
+2021-12-15/12:29:42		Hyper parameter tuning of RandomForest Ended..
+2021-12-15/12:29:42		n_estimators =10
+2021-12-15/12:29:42		criterion =gini
+2021-12-15/12:29:42		max_depth =25
+2021-12-15/12:29:42		max_features =auto
+2021-12-15/12:29:42		min_samples_split =0.005
+2021-12-15/12:29:42		min_samples_leaf =0.025
+2021-12-15/12:29:42		Returning best Random Forest Classifier along with tuned parameters
+2021-12-15/12:29:42		Training of best RandomForest Classifier Model is done 
+2021-12-15/12:29:42		Training of XGBoost Classifier Model has begun
+2021-12-15/12:29:42		Hyper parameter tuning of RandomForest Begun..
+2021-12-15/12:33:12		Hyper parameter tuning of RandomForest Ended..
+2021-12-15/12:33:12		n_estimators =10
+2021-12-15/12:33:12		criterion =gini
+2021-12-15/12:33:12		max_depth =35
+2021-12-15/12:33:12		max_features =auto
+2021-12-15/12:33:12		min_samples_split =0.025
+2021-12-15/12:33:12		min_samples_leaf =0.015
+2021-12-15/12:33:12		Returning best Random Forest Classifier along with tuned parameters
+2021-12-15/12:33:12		Training of best XGBoost Classifier Model is done 
+2021-12-15/12:33:12		Best model selected and returned::rf==0.5835365853658536
+2021-12-15/12:33:12		Training Logistic Regression Model has begun
+2021-12-15/12:33:12		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-15/12:33:13		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-15/12:33:13		solver =liblinear
+2021-12-15/12:33:13		penalty =l2
+2021-12-15/12:33:13		C =0.046415888336127774
+2021-12-15/12:33:13		Returning best Logistic Regressor along with tuned parameters
+2021-12-15/12:33:13		Training of best Logistic Regression Model is done 
+2021-12-15/12:33:13		Training RandomForest Classifier Model has begun
+2021-12-15/12:33:13		Hyper parameter tuning of RandomForest Begun..
+2021-12-15/12:36:20		Hyper parameter tuning of RandomForest Ended..
+2021-12-15/12:36:20		n_estimators =10
+2021-12-15/12:36:20		criterion =entropy
+2021-12-15/12:36:20		max_depth =15
+2021-12-15/12:36:20		max_features =log2
+2021-12-15/12:36:20		min_samples_split =0.025
+2021-12-15/12:36:20		min_samples_leaf =0.015
+2021-12-15/12:36:20		Returning best Random Forest Classifier along with tuned parameters
+2021-12-15/12:36:20		Training of best RandomForest Classifier Model is done 
+2021-12-15/12:36:20		Training of XGBoost Classifier Model has begun
+2021-12-15/12:36:20		Hyper parameter tuning of RandomForest Begun..
+2021-12-15/12:39:27		Hyper parameter tuning of RandomForest Ended..
+2021-12-15/12:39:27		n_estimators =10
+2021-12-15/12:39:27		criterion =gini
+2021-12-15/12:39:27		max_depth =5
+2021-12-15/12:39:27		max_features =auto
+2021-12-15/12:39:27		min_samples_split =0.035
+2021-12-15/12:39:27		min_samples_leaf =0.005
+2021-12-15/12:39:27		Returning best Random Forest Classifier along with tuned parameters
+2021-12-15/12:39:27		Training of best XGBoost Classifier Model is done 
+2021-12-15/12:39:27		Best model selected and returned::xg==1.0
+2021-12-15/12:05:47		Clustering has been initiated
+2021-12-15/12:05:49		We get number of clusters to be formed,6
+2021-12-15/12:05:49		6 clusters are made
+2021-12-15/12:05:49		Cluster column is added to data
+2021-12-15/12:39:27		Training Logistic Regression Model has begun
+2021-12-15/12:39:27		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-15/12:39:28		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-15/12:39:28		solver =liblinear
+2021-12-15/12:39:28		penalty =l2
+2021-12-15/12:39:28		C =0.046415888336127774
+2021-12-15/12:39:28		Returning best Logistic Regressor along with tuned parameters
+2021-12-15/12:39:28		Training of best Logistic Regression Model is done 
+2021-12-15/12:39:28		Training RandomForest Classifier Model has begun
+2021-12-15/12:39:28		Hyper parameter tuning of RandomForest Begun..
+2021-12-15/12:43:11		Hyper parameter tuning of RandomForest Ended..
+2021-12-15/12:43:11		n_estimators =10
+2021-12-15/12:43:11		criterion =gini
+2021-12-15/12:43:11		max_depth =35
+2021-12-15/12:43:11		max_features =log2
+2021-12-15/12:43:11		min_samples_split =0.015
+2021-12-15/12:43:11		min_samples_leaf =0.005
+2021-12-15/12:43:11		Returning best Random Forest Classifier along with tuned parameters
+2021-12-15/12:43:11		Training of best RandomForest Classifier Model is done 
+2021-12-15/12:43:11		Training of XGBoost Classifier Model has begun
+2021-12-15/12:43:11		Hyper parameter tuning of RandomForest Begun..
+2021-12-15/12:46:55		Hyper parameter tuning of RandomForest Ended..
+2021-12-15/12:46:55		n_estimators =10
+2021-12-15/12:46:55		criterion =entropy
+2021-12-15/12:46:55		max_depth =25
+2021-12-15/12:46:55		max_features =auto
+2021-12-15/12:46:55		min_samples_split =0.005
+2021-12-15/12:46:55		min_samples_leaf =0.005
+2021-12-15/12:46:55		Returning best Random Forest Classifier along with tuned parameters
+2021-12-15/12:46:55		Training of best XGBoost Classifier Model is done 
+2021-12-15/12:46:55		Best model selected and returned::xg==0.5781216098936862
+2021-12-15/12:05:47		Scaling dataset
+2021-12-15/12:05:47		Training is Initiated
+2021-12-15/12:05:49		Training for CLUSTER0
+2021-12-15/12:12:11		Final model for implementation is selected
+2021-12-15/12:12:11		The model is saved in file
+2021-12-15/12:12:11		Training for CLUSTER1
+2021-12-15/12:19:46		Final model for implementation is selected
+2021-12-15/12:19:46		The model is saved in file
+2021-12-15/12:19:46		Training for CLUSTER2
+2021-12-15/12:26:09		Final model for implementation is selected
+2021-12-15/12:26:09		The model is saved in file
+2021-12-15/12:26:09		Training for CLUSTER3
+2021-12-15/12:33:12		Final model for implementation is selected
+2021-12-15/12:33:12		The model is saved in file
+2021-12-15/12:33:12		Training for CLUSTER4
+2021-12-15/12:39:27		Final model for implementation is selected
+2021-12-15/12:39:27		The model is saved in file
+2021-12-15/12:39:27		Training for CLUSTER5
+2021-12-15/12:46:55		Final model for implementation is selected
+2021-12-15/12:46:55		The model is saved in file
+2021-12-16/11:22:12		Scaling dataset
+2021-12-16/11:23:02		Scaling dataset
+2021-12-16/11:23:24		Scaling dataset
+2021-12-16/11:25:16		Scaling dataset
+2021-12-16/11:27:11		Scaling dataset
+2021-12-16/11:28:35		Scaling dataset
+2021-12-16/11:29:00		Scaling dataset
+2021-12-16/11:29:33		Scaling dataset
+2021-12-16/11:31:58		Scaling dataset
+2021-12-16/11:35:48		Scaling dataset
+2021-12-16/11:38:57		Scaling dataset
+2021-12-16/11:42:53		Scaling dataset
+2021-12-16/11:44:32		Scaling dataset
+2021-12-16/11:49:08		Scaling dataset
+2021-12-16/11:49:30		Scaling dataset
+2021-12-16/11:54:18		Scaling dataset
+2021-12-16/12:13:52		Scaling dataset
+2021-12-16/12:25:34		Scaling dataset
+2021-12-16/12:26:23		Scaling dataset
+2021-12-16/12:53:26		Training Logistic Regression Model has begun
+2021-12-16/12:53:26		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-16/12:53:28		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-16/12:53:28		solver =liblinear
+2021-12-16/12:53:28		penalty =l2
+2021-12-16/12:53:28		C =0.005994842503189409
+2021-12-16/12:53:28		Returning best Logistic Regressor along with tuned parameters
+2021-12-16/12:53:28		Training of best Logistic Regression Model is done 
+2021-12-16/12:53:28		Training RandomForest Classifier Model has begun
+2021-12-16/12:53:28		Hyper parameter tuning of RandomForest Begun..
+2021-12-16/12:56:31		Hyper parameter tuning of RandomForest Ended..
+2021-12-16/12:56:31		n_estimators =50
+2021-12-16/12:56:31		criterion =entropy
+2021-12-16/12:56:31		max_depth =5
+2021-12-16/12:56:31		max_features =log2
+2021-12-16/12:56:31		min_samples_split =0.005
+2021-12-16/12:56:31		min_samples_leaf =0.015
+2021-12-16/12:56:31		Returning best Random Forest Classifier along with tuned parameters
+2021-12-16/12:56:31		Training of best RandomForest Classifier Model is done 
+2021-12-16/12:56:31		Training of XGBoost Classifier Model has begun
+2021-12-16/12:56:31		Hyper parameter tuning of RandomForest Begun..
+2021-12-16/12:59:37		Hyper parameter tuning of RandomForest Ended..
+2021-12-16/12:59:37		n_estimators =100
+2021-12-16/12:59:37		criterion =gini
+2021-12-16/12:59:37		max_depth =15
+2021-12-16/12:59:37		max_features =auto
+2021-12-16/12:59:37		min_samples_split =0.005
+2021-12-16/12:59:37		min_samples_leaf =0.005
+2021-12-16/12:59:37		Returning best Random Forest Classifier along with tuned parameters
+2021-12-16/12:59:37		Training of best XGBoost Classifier Model is done 
+2021-12-16/12:59:37		Best model selected and returned::lr==[0.8301587301587301]
+2021-12-16/12:59:37		Training Logistic Regression Model has begun
+2021-12-16/12:59:37		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-16/12:59:38		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-16/12:59:38		solver =newton-cg
+2021-12-16/12:59:38		penalty =l2
+2021-12-16/12:59:38		C =2.782559402207126
+2021-12-16/12:59:38		Returning best Logistic Regressor along with tuned parameters
+2021-12-16/12:59:38		Training of best Logistic Regression Model is done 
+2021-12-16/12:59:38		Training RandomForest Classifier Model has begun
+2021-12-16/12:59:38		Hyper parameter tuning of RandomForest Begun..
+2021-12-16/13:03:18		Hyper parameter tuning of RandomForest Ended..
+2021-12-16/13:03:18		n_estimators =10
+2021-12-16/13:03:18		criterion =entropy
+2021-12-16/13:03:18		max_depth =25
+2021-12-16/13:03:18		max_features =log2
+2021-12-16/13:03:18		min_samples_split =0.035
+2021-12-16/13:03:18		min_samples_leaf =0.005
+2021-12-16/13:03:18		Returning best Random Forest Classifier along with tuned parameters
+2021-12-16/13:03:18		Training of best RandomForest Classifier Model is done 
+2021-12-16/13:03:18		Training of XGBoost Classifier Model has begun
+2021-12-16/13:03:18		Hyper parameter tuning of RandomForest Begun..
+2021-12-16/13:06:59		Hyper parameter tuning of RandomForest Ended..
+2021-12-16/13:06:59		n_estimators =10
+2021-12-16/13:06:59		criterion =gini
+2021-12-16/13:06:59		max_depth =25
+2021-12-16/13:06:59		max_features =auto
+2021-12-16/13:06:59		min_samples_split =0.025
+2021-12-16/13:06:59		min_samples_leaf =0.005
+2021-12-16/13:06:59		Returning best Random Forest Classifier along with tuned parameters
+2021-12-16/13:06:59		Training of best XGBoost Classifier Model is done 
+2021-12-16/13:06:59		Best model selected and returned::lr==[0.5754311477995688]
+2021-12-16/13:06:59		Training Logistic Regression Model has begun
+2021-12-16/13:06:59		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-16/13:06:59		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-16/13:06:59		solver =liblinear
+2021-12-16/13:06:59		penalty =l2
+2021-12-16/13:06:59		C =0.046415888336127774
+2021-12-16/13:06:59		Returning best Logistic Regressor along with tuned parameters
+2021-12-16/13:06:59		Training of best Logistic Regression Model is done 
+2021-12-16/13:06:59		Training RandomForest Classifier Model has begun
+2021-12-16/13:06:59		Hyper parameter tuning of RandomForest Begun..
+2021-12-16/13:10:35		Hyper parameter tuning of RandomForest Ended..
+2021-12-16/13:10:35		n_estimators =10
+2021-12-16/13:10:35		criterion =entropy
+2021-12-16/13:10:35		max_depth =35
+2021-12-16/13:10:35		max_features =log2
+2021-12-16/13:10:35		min_samples_split =0.025
+2021-12-16/13:10:35		min_samples_leaf =0.005
+2021-12-16/13:10:35		Returning best Random Forest Classifier along with tuned parameters
+2021-12-16/13:10:35		Training of best RandomForest Classifier Model is done 
+2021-12-16/13:10:35		Training of XGBoost Classifier Model has begun
+2021-12-16/13:10:35		Hyper parameter tuning of RandomForest Begun..
+2021-12-16/13:14:11		Hyper parameter tuning of RandomForest Ended..
+2021-12-16/13:14:11		n_estimators =10
+2021-12-16/13:14:11		criterion =entropy
+2021-12-16/13:14:11		max_depth =15
+2021-12-16/13:14:11		max_features =log2
+2021-12-16/13:14:11		min_samples_split =0.025
+2021-12-16/13:14:11		min_samples_leaf =0.005
+2021-12-16/13:14:11		Returning best Random Forest Classifier along with tuned parameters
+2021-12-16/13:14:11		Training of best XGBoost Classifier Model is done 
+2021-12-16/13:14:11		Best model selected and returned::xg==0.5547292143401983
+2021-12-16/12:53:23		Clustering has been initiated
+2021-12-16/12:53:25		We get number of clusters to be formed,4
+2021-12-16/12:53:26		4 clusters are made
+2021-12-16/12:53:26		Cluster column is added to data
+2021-12-16/13:14:11		Training Logistic Regression Model has begun
+2021-12-16/13:14:11		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-16/13:14:11		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-16/13:14:11		solver =liblinear
+2021-12-16/13:14:11		penalty =l2
+2021-12-16/13:14:11		C =0.046415888336127774
+2021-12-16/13:14:11		Returning best Logistic Regressor along with tuned parameters
+2021-12-16/13:14:11		Training of best Logistic Regression Model is done 
+2021-12-16/13:14:11		Training RandomForest Classifier Model has begun
+2021-12-16/13:14:11		Hyper parameter tuning of RandomForest Begun..
+2021-12-16/13:17:39		Hyper parameter tuning of RandomForest Ended..
+2021-12-16/13:17:39		n_estimators =10
+2021-12-16/13:17:39		criterion =entropy
+2021-12-16/13:17:39		max_depth =5
+2021-12-16/13:17:39		max_features =auto
+2021-12-16/13:17:39		min_samples_split =0.015
+2021-12-16/13:17:39		min_samples_leaf =0.015
+2021-12-16/13:17:39		Returning best Random Forest Classifier along with tuned parameters
+2021-12-16/13:17:39		Training of best RandomForest Classifier Model is done 
+2021-12-16/13:17:39		Training of XGBoost Classifier Model has begun
+2021-12-16/13:17:39		Hyper parameter tuning of RandomForest Begun..
+2021-12-16/13:21:06		Hyper parameter tuning of RandomForest Ended..
+2021-12-16/13:21:06		n_estimators =10
+2021-12-16/13:21:06		criterion =entropy
+2021-12-16/13:21:06		max_depth =5
+2021-12-16/13:21:06		max_features =auto
+2021-12-16/13:21:06		min_samples_split =0.025
+2021-12-16/13:21:06		min_samples_leaf =0.015
+2021-12-16/13:21:06		Returning best Random Forest Classifier along with tuned parameters
+2021-12-16/13:21:06		Training of best XGBoost Classifier Model is done 
+2021-12-16/13:21:06		Best model selected and returned::xg==0.5726666666666667
+2021-12-16/12:53:23		Scaling dataset
+2021-12-16/12:53:23		Training is Initiated
+2021-12-16/12:53:26		Training for CLUSTER0
+2021-12-16/12:59:37		Final model for implementation is selected
+2021-12-16/12:59:37		The model is saved in file
+2021-12-16/12:59:37		Training for CLUSTER1
+2021-12-16/13:06:59		Final model for implementation is selected
+2021-12-16/13:06:59		The model is saved in file
+2021-12-16/13:06:59		Training for CLUSTER2
+2021-12-16/13:14:11		Final model for implementation is selected
+2021-12-16/13:14:11		The model is saved in file
+2021-12-16/13:14:11		Training for CLUSTER3
+2021-12-16/13:21:06		Final model for implementation is selected
+2021-12-16/13:21:06		The model is saved in file
+2021-12-18/21:23:36		Scaling dataset
+2021-12-18/21:29:30		Training Logistic Regression Model has begun
+2021-12-18/21:29:30		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-18/21:29:33		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-18/21:29:33		solver =liblinear
+2021-12-18/21:29:33		penalty =l2
+2021-12-18/21:29:33		C =0.005994842503189409
+2021-12-18/21:29:33		Returning best Logistic Regressor along with tuned parameters
+2021-12-18/21:29:33		Training of best Logistic Regression Model is done 
+2021-12-18/21:29:33		Training RandomForest Classifier Model has begun
+2021-12-18/21:29:33		Hyper parameter tuning of RandomForest Begun..
+2021-12-18/21:32:42		Hyper parameter tuning of RandomForest Ended..
+2021-12-18/21:32:42		n_estimators =10
+2021-12-18/21:32:42		criterion =gini
+2021-12-18/21:32:42		max_depth =5
+2021-12-18/21:32:42		max_features =log2
+2021-12-18/21:32:42		min_samples_split =0.035
+2021-12-18/21:32:42		min_samples_leaf =0.035
+2021-12-18/21:32:42		Returning best Random Forest Classifier along with tuned parameters
+2021-12-18/21:32:42		Training of best RandomForest Classifier Model is done 
+2021-12-18/21:32:42		Training of XGBoost Classifier Model has begun
+2021-12-18/21:32:42		Hyper parameter tuning of RandomForest Begun..
+2021-12-18/21:35:58		Hyper parameter tuning of RandomForest Ended..
+2021-12-18/21:35:58		n_estimators =10
+2021-12-18/21:35:58		criterion =gini
+2021-12-18/21:35:58		max_depth =25
+2021-12-18/21:35:58		max_features =auto
+2021-12-18/21:35:58		min_samples_split =0.035
+2021-12-18/21:35:58		min_samples_leaf =0.025
+2021-12-18/21:35:58		Returning best Random Forest Classifier along with tuned parameters
+2021-12-18/21:35:58		Training of best XGBoost Classifier Model is done 
+2021-12-18/21:35:58		Best model selected and returned::lr==[0.8301587301587301]
+2021-12-18/21:35:58		Training Logistic Regression Model has begun
+2021-12-18/21:35:58		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-18/21:35:59		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-18/21:35:59		solver =newton-cg
+2021-12-18/21:35:59		penalty =l2
+2021-12-18/21:35:59		C =2.782559402207126
+2021-12-18/21:35:59		Returning best Logistic Regressor along with tuned parameters
+2021-12-18/21:35:59		Training of best Logistic Regression Model is done 
+2021-12-18/21:35:59		Training RandomForest Classifier Model has begun
+2021-12-18/21:35:59		Hyper parameter tuning of RandomForest Begun..
+2021-12-18/21:39:46		Hyper parameter tuning of RandomForest Ended..
+2021-12-18/21:39:46		n_estimators =10
+2021-12-18/21:39:46		criterion =gini
+2021-12-18/21:39:46		max_depth =15
+2021-12-18/21:39:46		max_features =auto
+2021-12-18/21:39:46		min_samples_split =0.005
+2021-12-18/21:39:46		min_samples_leaf =0.005
+2021-12-18/21:39:46		Returning best Random Forest Classifier along with tuned parameters
+2021-12-18/21:39:46		Training of best RandomForest Classifier Model is done 
+2021-12-18/21:39:46		Training of XGBoost Classifier Model has begun
+2021-12-18/21:39:46		Hyper parameter tuning of RandomForest Begun..
+2021-12-18/21:43:32		Hyper parameter tuning of RandomForest Ended..
+2021-12-18/21:43:32		n_estimators =10
+2021-12-18/21:43:32		criterion =gini
+2021-12-18/21:43:32		max_depth =15
+2021-12-18/21:43:32		max_features =log2
+2021-12-18/21:43:32		min_samples_split =0.015
+2021-12-18/21:43:32		min_samples_leaf =0.015
+2021-12-18/21:43:32		Returning best Random Forest Classifier along with tuned parameters
+2021-12-18/21:43:32		Training of best XGBoost Classifier Model is done 
+2021-12-18/21:43:32		Best model selected and returned::rf==0.5770216625479784
+2021-12-18/21:43:32		Training Logistic Regression Model has begun
+2021-12-18/21:43:32		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-18/21:43:33		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-18/21:43:33		solver =liblinear
+2021-12-18/21:43:33		penalty =l2
+2021-12-18/21:43:33		C =0.046415888336127774
+2021-12-18/21:43:33		Returning best Logistic Regressor along with tuned parameters
+2021-12-18/21:43:33		Training of best Logistic Regression Model is done 
+2021-12-18/21:43:33		Training RandomForest Classifier Model has begun
+2021-12-18/21:43:33		Hyper parameter tuning of RandomForest Begun..
+2021-12-18/21:47:13		Hyper parameter tuning of RandomForest Ended..
+2021-12-18/21:47:13		n_estimators =10
+2021-12-18/21:47:13		criterion =entropy
+2021-12-18/21:47:13		max_depth =25
+2021-12-18/21:47:13		max_features =auto
+2021-12-18/21:47:13		min_samples_split =0.015
+2021-12-18/21:47:13		min_samples_leaf =0.005
+2021-12-18/21:47:13		Returning best Random Forest Classifier along with tuned parameters
+2021-12-18/21:47:13		Training of best RandomForest Classifier Model is done 
+2021-12-18/21:47:13		Training of XGBoost Classifier Model has begun
+2021-12-18/21:47:13		Hyper parameter tuning of RandomForest Begun..
+2021-12-18/21:50:55		Hyper parameter tuning of RandomForest Ended..
+2021-12-18/21:50:55		n_estimators =10
+2021-12-18/21:50:55		criterion =entropy
+2021-12-18/21:50:55		max_depth =25
+2021-12-18/21:50:55		max_features =auto
+2021-12-18/21:50:55		min_samples_split =0.015
+2021-12-18/21:50:55		min_samples_leaf =0.005
+2021-12-18/21:50:55		Returning best Random Forest Classifier along with tuned parameters
+2021-12-18/21:50:55		Training of best XGBoost Classifier Model is done 
+2021-12-18/21:50:55		Best model selected and returned::xg==0.5737867086193746
+2021-12-18/21:29:28		Clustering has been initiated
+2021-12-18/21:29:30		We get number of clusters to be formed,4
+2021-12-18/21:29:30		4 clusters are made
+2021-12-18/21:29:30		Cluster column is added to data
+2021-12-18/21:50:55		Training Logistic Regression Model has begun
+2021-12-18/21:50:55		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-18/21:50:55		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-18/21:50:55		solver =liblinear
+2021-12-18/21:50:55		penalty =l2
+2021-12-18/21:50:55		C =0.046415888336127774
+2021-12-18/21:50:55		Returning best Logistic Regressor along with tuned parameters
+2021-12-18/21:50:55		Training of best Logistic Regression Model is done 
+2021-12-18/21:50:55		Training RandomForest Classifier Model has begun
+2021-12-18/21:50:55		Hyper parameter tuning of RandomForest Begun..
+2021-12-18/21:54:28		Hyper parameter tuning of RandomForest Ended..
+2021-12-18/21:54:28		n_estimators =10
+2021-12-18/21:54:28		criterion =gini
+2021-12-18/21:54:28		max_depth =35
+2021-12-18/21:54:28		max_features =log2
+2021-12-18/21:54:28		min_samples_split =0.025
+2021-12-18/21:54:28		min_samples_leaf =0.005
+2021-12-18/21:54:28		Returning best Random Forest Classifier along with tuned parameters
+2021-12-18/21:54:28		Training of best RandomForest Classifier Model is done 
+2021-12-18/21:54:28		Training of XGBoost Classifier Model has begun
+2021-12-18/21:54:28		Hyper parameter tuning of RandomForest Begun..
+2021-12-18/21:58:00		Hyper parameter tuning of RandomForest Ended..
+2021-12-18/21:58:00		n_estimators =10
+2021-12-18/21:58:00		criterion =gini
+2021-12-18/21:58:00		max_depth =15
+2021-12-18/21:58:00		max_features =auto
+2021-12-18/21:58:00		min_samples_split =0.015
+2021-12-18/21:58:00		min_samples_leaf =0.015
+2021-12-18/21:58:00		Returning best Random Forest Classifier along with tuned parameters
+2021-12-18/21:58:00		Training of best XGBoost Classifier Model is done 
+2021-12-18/21:58:00		Best model selected and returned::rf==0.5873333333333333
+2021-12-18/21:29:28		Scaling dataset
+2021-12-18/21:29:28		Training is Initiated
+2021-12-18/21:29:30		Training for CLUSTER0
+2021-12-18/21:35:58		Final model for implementation is selected
+2021-12-18/21:35:58		The model is saved in file
+2021-12-18/21:35:58		Training for CLUSTER1
+2021-12-18/21:43:32		Final model for implementation is selected
+2021-12-18/21:43:32		The model is saved in file
+2021-12-18/21:43:32		Training for CLUSTER2
+2021-12-18/21:50:55		Final model for implementation is selected
+2021-12-18/21:50:55		The model is saved in file
+2021-12-18/21:50:55		Training for CLUSTER3
+2021-12-18/21:58:00		Final model for implementation is selected
+2021-12-18/21:58:00		The model is saved in file
+2021-12-18/22:02:37		Training Logistic Regression Model has begun
+2021-12-18/22:02:37		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-18/22:02:40		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-18/22:02:40		solver =liblinear
+2021-12-18/22:02:40		penalty =l2
+2021-12-18/22:02:40		C =0.005994842503189409
+2021-12-18/22:02:40		Returning best Logistic Regressor along with tuned parameters
+2021-12-18/22:02:40		Training of best Logistic Regression Model is done 
+2021-12-18/22:02:40		Training RandomForest Classifier Model has begun
+2021-12-18/22:02:40		Hyper parameter tuning of RandomForest Begun..
+2021-12-18/22:05:54		Hyper parameter tuning of RandomForest Ended..
+2021-12-18/22:05:54		n_estimators =10
+2021-12-18/22:05:54		criterion =entropy
+2021-12-18/22:05:54		max_depth =35
+2021-12-18/22:05:54		max_features =auto
+2021-12-18/22:05:54		min_samples_split =0.035
+2021-12-18/22:05:54		min_samples_leaf =0.005
+2021-12-18/22:05:54		Returning best Random Forest Classifier along with tuned parameters
+2021-12-18/22:05:54		Training of best RandomForest Classifier Model is done 
+2021-12-18/22:05:54		Training of XGBoost Classifier Model has begun
+2021-12-18/22:05:54		Hyper parameter tuning of RandomForest Begun..
+2021-12-18/22:09:11		Hyper parameter tuning of RandomForest Ended..
+2021-12-18/22:09:11		n_estimators =150
+2021-12-18/22:09:11		criterion =entropy
+2021-12-18/22:09:11		max_depth =15
+2021-12-18/22:09:11		max_features =auto
+2021-12-18/22:09:11		min_samples_split =0.035
+2021-12-18/22:09:11		min_samples_leaf =0.005
+2021-12-18/22:09:11		Returning best Random Forest Classifier along with tuned parameters
+2021-12-18/22:09:11		Training of best XGBoost Classifier Model is done 
+2021-12-18/22:09:11		Best model selected and returned::lr==[0.8301587301587301]
+2021-12-18/22:09:11		Training Logistic Regression Model has begun
+2021-12-18/22:09:11		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-18/22:09:12		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-18/22:09:12		solver =newton-cg
+2021-12-18/22:09:12		penalty =l2
+2021-12-18/22:09:12		C =2.782559402207126
+2021-12-18/22:09:12		Returning best Logistic Regressor along with tuned parameters
+2021-12-18/22:09:12		Training of best Logistic Regression Model is done 
+2021-12-18/22:09:12		Training RandomForest Classifier Model has begun
+2021-12-18/22:09:12		Hyper parameter tuning of RandomForest Begun..
+2021-12-18/22:12:59		Hyper parameter tuning of RandomForest Ended..
+2021-12-18/22:12:59		n_estimators =10
+2021-12-18/22:12:59		criterion =entropy
+2021-12-18/22:12:59		max_depth =15
+2021-12-18/22:12:59		max_features =log2
+2021-12-18/22:12:59		min_samples_split =0.015
+2021-12-18/22:12:59		min_samples_leaf =0.005
+2021-12-18/22:12:59		Returning best Random Forest Classifier along with tuned parameters
+2021-12-18/22:12:59		Training of best RandomForest Classifier Model is done 
+2021-12-18/22:12:59		Training of XGBoost Classifier Model has begun
+2021-12-18/22:12:59		Hyper parameter tuning of RandomForest Begun..
+2021-12-18/22:16:47		Hyper parameter tuning of RandomForest Ended..
+2021-12-18/22:16:47		n_estimators =10
+2021-12-18/22:16:47		criterion =gini
+2021-12-18/22:16:47		max_depth =35
+2021-12-18/22:16:47		max_features =auto
+2021-12-18/22:16:47		min_samples_split =0.025
+2021-12-18/22:16:47		min_samples_leaf =0.005
+2021-12-18/22:16:47		Returning best Random Forest Classifier along with tuned parameters
+2021-12-18/22:16:47		Training of best XGBoost Classifier Model is done 
+2021-12-18/22:16:47		Best model selected and returned::lr==[0.5754311477995688]
+2021-12-18/22:16:47		Training Logistic Regression Model has begun
+2021-12-18/22:16:47		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-18/22:16:48		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-18/22:16:48		solver =liblinear
+2021-12-18/22:16:48		penalty =l2
+2021-12-18/22:16:48		C =0.046415888336127774
+2021-12-18/22:16:48		Returning best Logistic Regressor along with tuned parameters
+2021-12-18/22:16:48		Training of best Logistic Regression Model is done 
+2021-12-18/22:16:48		Training RandomForest Classifier Model has begun
+2021-12-18/22:16:48		Hyper parameter tuning of RandomForest Begun..
+2021-12-18/22:20:31		Hyper parameter tuning of RandomForest Ended..
+2021-12-18/22:20:31		n_estimators =10
+2021-12-18/22:20:31		criterion =gini
+2021-12-18/22:20:31		max_depth =25
+2021-12-18/22:20:31		max_features =auto
+2021-12-18/22:20:31		min_samples_split =0.005
+2021-12-18/22:20:31		min_samples_leaf =0.005
+2021-12-18/22:20:31		Returning best Random Forest Classifier along with tuned parameters
+2021-12-18/22:20:31		Training of best RandomForest Classifier Model is done 
+2021-12-18/22:20:31		Training of XGBoost Classifier Model has begun
+2021-12-18/22:20:31		Hyper parameter tuning of RandomForest Begun..
+2021-12-18/22:24:14		Hyper parameter tuning of RandomForest Ended..
+2021-12-18/22:24:14		n_estimators =10
+2021-12-18/22:24:14		criterion =gini
+2021-12-18/22:24:14		max_depth =25
+2021-12-18/22:24:14		max_features =auto
+2021-12-18/22:24:14		min_samples_split =0.025
+2021-12-18/22:24:14		min_samples_leaf =0.005
+2021-12-18/22:24:14		Returning best Random Forest Classifier along with tuned parameters
+2021-12-18/22:24:14		Training of best XGBoost Classifier Model is done 
+2021-12-18/22:24:14		Best model selected and returned::lr==[0.5463625095347064]
+2021-12-18/22:02:35		Clustering has been initiated
+2021-12-18/22:02:37		We get number of clusters to be formed,4
+2021-12-18/22:02:37		4 clusters are made
+2021-12-18/22:02:37		Cluster column is added to data
+2021-12-18/22:24:14		Training Logistic Regression Model has begun
+2021-12-18/22:24:14		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-18/22:24:15		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-18/22:24:15		solver =liblinear
+2021-12-18/22:24:15		penalty =l2
+2021-12-18/22:24:15		C =0.046415888336127774
+2021-12-18/22:24:15		Returning best Logistic Regressor along with tuned parameters
+2021-12-18/22:24:15		Training of best Logistic Regression Model is done 
+2021-12-18/22:24:15		Training RandomForest Classifier Model has begun
+2021-12-18/22:24:15		Hyper parameter tuning of RandomForest Begun..
+2021-12-18/22:27:49		Hyper parameter tuning of RandomForest Ended..
+2021-12-18/22:27:49		n_estimators =10
+2021-12-18/22:27:49		criterion =gini
+2021-12-18/22:27:49		max_depth =15
+2021-12-18/22:27:49		max_features =log2
+2021-12-18/22:27:49		min_samples_split =0.035
+2021-12-18/22:27:49		min_samples_leaf =0.015
+2021-12-18/22:27:49		Returning best Random Forest Classifier along with tuned parameters
+2021-12-18/22:27:49		Training of best RandomForest Classifier Model is done 
+2021-12-18/22:27:49		Training of XGBoost Classifier Model has begun
+2021-12-18/22:27:49		Hyper parameter tuning of RandomForest Begun..
+2021-12-18/22:31:24		Hyper parameter tuning of RandomForest Ended..
+2021-12-18/22:31:24		n_estimators =10
+2021-12-18/22:31:24		criterion =entropy
+2021-12-18/22:31:24		max_depth =35
+2021-12-18/22:31:24		max_features =auto
+2021-12-18/22:31:24		min_samples_split =0.035
+2021-12-18/22:31:24		min_samples_leaf =0.025
+2021-12-18/22:31:24		Returning best Random Forest Classifier along with tuned parameters
+2021-12-18/22:31:24		Training of best XGBoost Classifier Model is done 
+2021-12-18/22:31:24		Best model selected and returned::rf==0.6373333333333333
+2021-12-18/22:02:35		Scaling dataset
+2021-12-18/22:02:35		Training is Initiated
+2021-12-18/22:02:37		Training for CLUSTER0
+2021-12-18/22:09:11		Final model for implementation is selected
+2021-12-18/22:09:11		The model is saved in file
+2021-12-18/22:09:11		Training for CLUSTER1
+2021-12-18/22:16:47		Final model for implementation is selected
+2021-12-18/22:16:47		The model is saved in file
+2021-12-18/22:16:47		Training for CLUSTER2
+2021-12-18/22:24:14		Final model for implementation is selected
+2021-12-18/22:24:14		The model is saved in file
+2021-12-18/22:24:14		Training for CLUSTER3
+2021-12-18/22:31:24		Final model for implementation is selected
+2021-12-18/22:31:24		The model is saved in file
+2021-12-18/22:42:32		Scaling dataset
+2021-12-19/08:23:34		Training Logistic Regression Model has begun
+2021-12-19/08:23:34		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-19/08:23:37		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-19/08:23:37		solver =liblinear
+2021-12-19/08:23:37		penalty =l2
+2021-12-19/08:23:37		C =0.005994842503189409
+2021-12-19/08:23:37		Returning best Logistic Regressor along with tuned parameters
+2021-12-19/08:23:37		Training of best Logistic Regression Model is done 
+2021-12-19/08:23:37		Training RandomForest Classifier Model has begun
+2021-12-19/08:23:37		Hyper parameter tuning of RandomForest Begun..
+2021-12-19/08:26:50		Hyper parameter tuning of RandomForest Ended..
+2021-12-19/08:26:50		n_estimators =10
+2021-12-19/08:26:50		criterion =entropy
+2021-12-19/08:26:50		max_depth =25
+2021-12-19/08:26:50		max_features =log2
+2021-12-19/08:26:50		min_samples_split =0.035
+2021-12-19/08:26:50		min_samples_leaf =0.015
+2021-12-19/08:26:50		Returning best Random Forest Classifier along with tuned parameters
+2021-12-19/08:26:50		Training of best RandomForest Classifier Model is done 
+2021-12-19/08:26:50		Training of XGBoost Classifier Model has begun
+2021-12-19/08:26:50		Hyper parameter tuning of RandomForest Begun..
+2021-12-19/08:30:06		Hyper parameter tuning of RandomForest Ended..
+2021-12-19/08:30:06		n_estimators =10
+2021-12-19/08:30:06		criterion =entropy
+2021-12-19/08:30:06		max_depth =25
+2021-12-19/08:30:06		max_features =auto
+2021-12-19/08:30:06		min_samples_split =0.035
+2021-12-19/08:30:06		min_samples_leaf =0.035
+2021-12-19/08:30:06		Returning best Random Forest Classifier along with tuned parameters
+2021-12-19/08:30:06		Training of best XGBoost Classifier Model is done 
+2021-12-19/08:30:06		Best model selected and returned::lr==[0.8301587301587301]
+2021-12-19/08:30:06		Training Logistic Regression Model has begun
+2021-12-19/08:30:06		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-19/08:30:07		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-19/08:30:07		solver =newton-cg
+2021-12-19/08:30:07		penalty =l2
+2021-12-19/08:30:07		C =2.782559402207126
+2021-12-19/08:30:07		Returning best Logistic Regressor along with tuned parameters
+2021-12-19/08:30:07		Training of best Logistic Regression Model is done 
+2021-12-19/08:30:07		Training RandomForest Classifier Model has begun
+2021-12-19/08:30:07		Hyper parameter tuning of RandomForest Begun..
+2021-12-19/08:33:55		Hyper parameter tuning of RandomForest Ended..
+2021-12-19/08:33:55		n_estimators =10
+2021-12-19/08:33:55		criterion =entropy
+2021-12-19/08:33:55		max_depth =25
+2021-12-19/08:33:55		max_features =log2
+2021-12-19/08:33:55		min_samples_split =0.015
+2021-12-19/08:33:55		min_samples_leaf =0.015
+2021-12-19/08:33:55		Returning best Random Forest Classifier along with tuned parameters
+2021-12-19/08:33:55		Training of best RandomForest Classifier Model is done 
+2021-12-19/08:33:55		Training of XGBoost Classifier Model has begun
+2021-12-19/08:33:55		Hyper parameter tuning of RandomForest Begun..
+2021-12-19/08:37:42		Hyper parameter tuning of RandomForest Ended..
+2021-12-19/08:37:42		n_estimators =10
+2021-12-19/08:37:42		criterion =entropy
+2021-12-19/08:37:42		max_depth =15
+2021-12-19/08:37:42		max_features =auto
+2021-12-19/08:37:42		min_samples_split =0.025
+2021-12-19/08:37:42		min_samples_leaf =0.005
+2021-12-19/08:37:42		Returning best Random Forest Classifier along with tuned parameters
+2021-12-19/08:37:42		Training of best XGBoost Classifier Model is done 
+2021-12-19/08:37:42		Best model selected and returned::xg==0.5773305641726694
+2021-12-19/08:37:42		Training Logistic Regression Model has begun
+2021-12-19/08:37:42		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-19/08:37:43		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-19/08:37:43		solver =liblinear
+2021-12-19/08:37:43		penalty =l2
+2021-12-19/08:37:43		C =0.046415888336127774
+2021-12-19/08:37:43		Returning best Logistic Regressor along with tuned parameters
+2021-12-19/08:37:43		Training of best Logistic Regression Model is done 
+2021-12-19/08:37:43		Training RandomForest Classifier Model has begun
+2021-12-19/08:37:43		Hyper parameter tuning of RandomForest Begun..
+2021-12-19/08:41:25		Hyper parameter tuning of RandomForest Ended..
+2021-12-19/08:41:25		n_estimators =10
+2021-12-19/08:41:25		criterion =gini
+2021-12-19/08:41:25		max_depth =25
+2021-12-19/08:41:25		max_features =log2
+2021-12-19/08:41:25		min_samples_split =0.025
+2021-12-19/08:41:25		min_samples_leaf =0.005
+2021-12-19/08:41:25		Returning best Random Forest Classifier along with tuned parameters
+2021-12-19/08:41:25		Training of best RandomForest Classifier Model is done 
+2021-12-19/08:41:25		Training of XGBoost Classifier Model has begun
+2021-12-19/08:41:25		Hyper parameter tuning of RandomForest Begun..
+2021-12-19/08:45:07		Hyper parameter tuning of RandomForest Ended..
+2021-12-19/08:45:07		n_estimators =10
+2021-12-19/08:45:07		criterion =entropy
+2021-12-19/08:45:07		max_depth =15
+2021-12-19/08:45:07		max_features =auto
+2021-12-19/08:45:07		min_samples_split =0.025
+2021-12-19/08:45:07		min_samples_leaf =0.005
+2021-12-19/08:45:07		Returning best Random Forest Classifier along with tuned parameters
+2021-12-19/08:45:07		Training of best XGBoost Classifier Model is done 
+2021-12-19/08:45:07		Best model selected and returned::lr==[0.5463625095347064]
+2021-12-19/08:23:32		Clustering has been initiated
+2021-12-19/08:23:34		We get number of clusters to be formed,4
+2021-12-19/08:23:34		4 clusters are made
+2021-12-19/08:23:34		Cluster column is added to data
+2021-12-19/08:45:07		Training Logistic Regression Model has begun
+2021-12-19/08:45:07		Hyper parameter tuning of Logistic Regression Begun..
+2021-12-19/08:45:08		Hyper parameter tuning of Logistic Regression Ended..
+2021-12-19/08:45:08		solver =liblinear
+2021-12-19/08:45:08		penalty =l2
+2021-12-19/08:45:08		C =0.046415888336127774
+2021-12-19/08:45:08		Returning best Logistic Regressor along with tuned parameters
+2021-12-19/08:45:08		Training of best Logistic Regression Model is done 
+2021-12-19/08:45:08		Training RandomForest Classifier Model has begun
+2021-12-19/08:45:08		Hyper parameter tuning of RandomForest Begun..
+2021-12-19/08:48:43		Hyper parameter tuning of RandomForest Ended..
+2021-12-19/08:48:43		n_estimators =10
+2021-12-19/08:48:43		criterion =gini
+2021-12-19/08:48:43		max_depth =5
+2021-12-19/08:48:43		max_features =log2
+2021-12-19/08:48:43		min_samples_split =0.005
+2021-12-19/08:48:43		min_samples_leaf =0.015
+2021-12-19/08:48:43		Returning best Random Forest Classifier along with tuned parameters
+2021-12-19/08:48:43		Training of best RandomForest Classifier Model is done 
+2021-12-19/08:48:43		Training of XGBoost Classifier Model has begun
+2021-12-19/08:48:43		Hyper parameter tuning of RandomForest Begun..
+2021-12-19/08:52:17		Hyper parameter tuning of RandomForest Ended..
+2021-12-19/08:52:17		n_estimators =10
+2021-12-19/08:52:17		criterion =entropy
+2021-12-19/08:52:17		max_depth =35
+2021-12-19/08:52:17		max_features =auto
+2021-12-19/08:52:17		min_samples_split =0.005
+2021-12-19/08:52:17		min_samples_leaf =0.015
+2021-12-19/08:52:17		Returning best Random Forest Classifier along with tuned parameters
+2021-12-19/08:52:17		Training of best XGBoost Classifier Model is done 
+2021-12-19/08:52:17		Best model selected and returned::xg==0.5866666666666667
+2021-12-19/08:23:32		Scaling dataset
+2021-12-19/08:23:32		Training is Initiated
+2021-12-19/08:23:34		Training for CLUSTER0
+2021-12-19/08:30:06		Final model for implementation is selected
+2021-12-19/08:30:06		The model is saved in file
+2021-12-19/08:30:06		Training for CLUSTER1
+2021-12-19/08:37:42		Final model for implementation is selected
+2021-12-19/08:37:42		The model is saved in file
+2021-12-19/08:37:42		Training for CLUSTER2
+2021-12-19/08:45:07		Final model for implementation is selected
+2021-12-19/08:45:07		The model is saved in file
+2021-12-19/08:45:07		Training for CLUSTER3
+2021-12-19/08:52:17		Final model for implementation is selected
+2021-12-19/08:52:17		The model is saved in file
+2021-12-19/08:53:45		Scaling dataset
+2021-12-19/08:54:19		Scaling dataset
+2021-12-19/08:56:15		Scaling dataset
